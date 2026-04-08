@@ -1,0 +1,33 @@
+
+Mr. Fauzi can we start the morning asakai right now?
+
+Opening & Greeting
+Good morning, everyone. Welcome to our morning brief. Thank you all for being here on time.
+Before we start our activities today, let's take a brief moment to pray according to our respective faiths and beliefs, so that our work today runs smoothly. Praying, begin
+I hope everyone is in good health, feeling fresh, and ready to tackle today's tasks.
+
+Progress Update
+To start off, we need to know where we currently stand and previous activities updated. I would like to invite [Name of Member] to share the latest progress update with the team. Lets hear update from [Name of Member]. Mas [Name of Member] how are you today?
+
+Thank you, [Name of Member], for the update.
+
+{
+Next we will hear updates from [Name of Member]. Good morning [Name of Member], how are you today?
+
+Thank you, [Name of Member], for the updates.
+}
+
+
+Next, we will listen to some direction and guidance for today's focus from [Name of Manager].
+Good morning [Name of Manager], how are you today [Name of Manager]?
+Thank you, [Name of Manager].
+
+Next, we will listen to some direction and guidance for today's focus from [Name of Manager].
+Good morning [Name of Manager], how are you today [Name of Manager]? the floor is yours.
+Thank you, [Name of Manager], for the clear guidance.
+
+Q&A Section
+We will now open the floor for a quick Q&A session. If anyone has questions, needs clarification, or wants to raise a point regarding the updates or the direction just given, please feel free to ask.
+
+Closing & Spirit
+If there are no further questions, we will wrap up our morning brief here. Let's bring our best energy, stay safe, and keep our spirits up to maximize our productivity today. Thank you everyone for your time, and have a great working day!
